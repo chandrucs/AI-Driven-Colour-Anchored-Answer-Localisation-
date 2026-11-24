@@ -1,0 +1,17 @@
+control,config,0.0,0.1,0.2,0.3,0.45
+keyword-stuffed wrong answer,"R1, calibrated",9.9,9.17,7.63,5.27,3.03
+keyword-stuffed wrong answer,"R1, calibrated on examiner only",9.63,8.85,7.55,5.85,4.32
+keyword-stuffed wrong answer,"submitted, calibrated",7.18,6.13,5.13,3.95,2.32
+keyword-stuffed wrong answer,"submitted, published ramp",10.0,10.0,10.0,9.83,8.5
+paraphrase (held-out ALT),"R1, calibrated",8.15,6.8,5.4,3.65,1.35
+paraphrase (held-out ALT),"R1, calibrated on examiner only",8.2,6.98,5.9,4.65,2.88
+paraphrase (held-out ALT),"submitted, calibrated",6.95,5.35,3.48,2.58,1.23
+paraphrase (held-out ALT),"submitted, published ramp",9.8,9.7,8.9,7.92,6.38
+reference answer,"R1, calibrated",10.0,10.0,9.68,8.07,3.5
+reference answer,"R1, calibrated on examiner only",10.0,10.0,9.5,7.88,4.65
+reference answer,"submitted, calibrated",9.95,8.3,6.8,5.05,2.33
+reference answer,"submitted, published ramp",10.0,10.0,10.0,10.0,8.78
+wrong question (clean reference),"R1, calibrated",3.5,2.85,2.35,1.63,0.83
+wrong question (clean reference),"R1, calibrated on examiner only",4.55,4.18,3.72,3.28,2.7
+wrong question (clean reference),"submitted, calibrated",2.68,2.23,1.77,1.47,0.83
+wrong question (clean reference),"submitted, published ramp",7.52,7.27,6.88,6.77,5.85

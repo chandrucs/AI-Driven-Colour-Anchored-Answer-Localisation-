@@ -1,0 +1,8 @@
+comparison,answers,answer MAE,MAE 95% CI,exact %,within 0.5 %,within 1 %,QWK (answers),"ICC(A,1)",script MAE,script LoA,exact grade band %,QWK (bands)
+examiner 1 vs examiner 2,300,0.67,0.60-0.75,40.3,40.3,94.0,0.933,0.933,5.83,-11.6 to 0.2,46.7,0.865
+submitted system (re-run) vs examiner 1,300,3.33,3.03-3.65,6.0,12.3,20.7,0.2,0.2,28.37,-1.9 to 56.1,10.0,0.25
+submitted system (re-run) vs examiner 2,300,2.91,2.62-3.22,8.7,17.3,24.3,0.256,0.257,23.13,-6.4 to 49.2,10.0,0.371
+submitted system (re-run) vs mean of examiners,300,3.11,2.82-3.42,6.3,14.7,22.3,0.229,0.229,25.75,-4.0 to 52.5,10.0,0.305
+system R1 (held-out (constrained)) vs examiner 1,300,2.27,2.02-2.57,8.0,23.3,38.0,0.359,0.36,13.2,-33.7 to 8.0,33.3,0.677
+system R1 (held-out (constrained)) vs examiner 2,300,2.56,2.28-2.88,9.0,21.3,32.0,0.324,0.325,18.53,-39.4 to 2.3,16.7,0.487
+system R1 (held-out (constrained)) vs mean of examiners,300,2.4,2.13-2.70,7.7,23.0,34.3,0.345,0.346,15.68,-36.3 to 5.0,30.0,0.6

@@ -1,0 +1,8 @@
+comparison,answers,answer MAE,exact %,within 1 %,"ICC(A,1)"
+examiner 1 vs examiner 2,290,0.69,38.6,93.8,0.925
+submitted system (re-run) vs examiner 1,290,3.39,3.8,19.0,0.128
+submitted system (re-run) vs examiner 2,290,2.97,6.6,22.8,0.169
+submitted system (re-run) vs mean of examiners,290,3.17,4.1,20.7,0.149
+system R1 (held-out (constrained)) vs examiner 1,290,2.33,5.9,36.9,0.318
+system R1 (held-out (constrained)) vs examiner 2,290,2.62,6.9,30.7,0.283
+system R1 (held-out (constrained)) vs mean of examiners,290,2.45,5.5,33.1,0.304
